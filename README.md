@@ -1,5 +1,8 @@
 # Creando aplicacion con React
 
+<img src="PREVIEW/preview1.png" alt=""/>
+<img src="PREVIEW/preview2.png" alt=""/>
+
 --------------------------------------
 # Getting Started with Create React App
 
